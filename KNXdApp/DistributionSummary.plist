@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KNXdApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>ACA6A95251F1ADE140B4E94DAABB3D16B0F29693</string>
+				<key>dateExpires</key>
+				<string>2/17/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V4L7NS5FQ7.io.bgoerke.KNXdApp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V4L7NS5FQ7</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>V4L7NS5FQ7.io.bgoerke.KNXdApp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>KNXdApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8555b499-8f52-41b6-a994-e4d092b9eabd</string>
+				<key>name</key>
+				<string>Bjoern Goerke Provisioning Profile 2022</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V4L7NS5FQ7</string>
+				<key>name</key>
+				<string>Bjoern Goerke</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
