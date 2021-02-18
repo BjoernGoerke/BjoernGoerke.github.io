@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://macmini.local/iOSApps/KNXdApp/KNXdApp.ipa</string>
+		<string>https://bjoerngoerke.github.io/KNXdApp/KNXdApp.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://macmini.local/iOSApps/KNXdApp/Icon-57x57.png</string>
+		<string>https://bjoerngoerke.github.io/KNXdApp/Icon-57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://macmini.local/iOSApps/KNXdApp/Icon-512x512.png</string>
+		<string>https://bjoerngoerke.github.io/KNXdApp/Icon-512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
