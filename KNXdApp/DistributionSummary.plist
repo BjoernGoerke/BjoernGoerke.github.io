@@ -22,21 +22,19 @@
 			<dict>
 				<key>application-identifier</key>
 				<string>V4L7NS5FQ7.io.bgoerke.KNXdApp</string>
+				<key>com.apple.developer.siri</key>
+				<true/>
 				<key>com.apple.developer.team-identifier</key>
 				<string>V4L7NS5FQ7</string>
 				<key>get-task-allow</key>
 				<false/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>V4L7NS5FQ7.io.bgoerke.KNXdApp</string>
-				</array>
 			</dict>
 			<key>name</key>
 			<string>KNXdApp.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>8555b499-8f52-41b6-a994-e4d092b9eabd</string>
+				<string>4e6efb60-e7f2-4fd9-aa4e-5ba58451eb12</string>
 				<key>name</key>
 				<string>Bjoern Goerke Provisioning Profile 2022</string>
 			</dict>
