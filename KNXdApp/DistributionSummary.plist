@@ -22,10 +22,33 @@
 			<dict>
 				<key>application-identifier</key>
 				<string>V4L7NS5FQ7.io.bgoerke.KNXdApp</string>
+				<key>com.apple.developer.networking.multipath</key>
+				<true/>
+				<key>com.apple.developer.networking.networkextension</key>
+				<array>
+					<string>app-proxy-provider</string>
+					<string>content-filter-provider</string>
+					<string>dns-proxy</string>
+					<string>dns-settings</string>
+					<string>packet-tunnel-provider</string>
+				</array>
+				<key>com.apple.developer.networking.vpn.api</key>
+				<array>
+					<string>allow-vpn</string>
+				</array>
+				<key>com.apple.developer.networking.wifi-info</key>
+				<true/>
+				<key>com.apple.developer.nfc.readersession.formats</key>
+				<array>
+					<string>NDEF</string>
+					<string>TAG</string>
+				</array>
 				<key>com.apple.developer.siri</key>
 				<true/>
 				<key>com.apple.developer.team-identifier</key>
 				<string>V4L7NS5FQ7</string>
+				<key>com.apple.external-accessory.wireless-configuration</key>
+				<true/>
 				<key>get-task-allow</key>
 				<false/>
 			</dict>
@@ -34,7 +57,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>4e6efb60-e7f2-4fd9-aa4e-5ba58451eb12</string>
+				<string>ad7fb48f-c682-422f-96bd-9896378f9413</string>
 				<key>name</key>
 				<string>Bjoern Goerke Provisioning Profile 2022</string>
 			</dict>
